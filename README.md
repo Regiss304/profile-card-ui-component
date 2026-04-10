@@ -60,5 +60,5 @@ git clone https://github.com/your-username/profile-card-ui-component.git
 
 ## 🔗 Links
 
-- 🌐 Live Site: https://regiss304.github.io/profile-card-ui-component/
-- 💻 Repository: https://github.com/Regiss304/profile-card-ui-component
+- 🌐 Live Site: https://gabriel-r-silvaa.github.io/profile-card-ui-component/
+- 💻 Repository: https://github.com/gabriel-r-silvaa/profile-card-ui-component

@@ -54,3 +54,10 @@ The goal is to practice layout structuring, styling, and basic UI design princip
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/profile-card-ui-component.git
+
+===
+
+## 🔗 Links
+
+- 🌐 Live Site: https://regiss304.github.io/profile-card-ui-component/
+- 💻 Repository: https://github.com/Regiss304/profile-card-ui-component
